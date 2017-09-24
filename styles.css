@@ -1,0 +1,11 @@
+.wrapper {
+	padding: 10px;
+}
+
+.fresh {
+	background-color:darkred;
+}
+
+.list-group-item {
+	padding: 5px 15px;
+}
